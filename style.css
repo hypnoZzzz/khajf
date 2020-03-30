@@ -1,0 +1,30 @@
+
+
+form {
+	display: flex; 
+	flex-direction: column;
+}
+
+#replacement {
+	display: none;
+}
+
+p {
+	font-size: 5pt;
+}
+
+hr {
+	width: 122px;
+	height: 1px;
+	background-color: #ff2d2d;
+	border: none; 
+	margin: 0;
+}
+
+#saveChbx {
+	width: 200px;
+}
+
+#wrapper {
+	display: flex;
+}
